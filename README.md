@@ -1,7 +1,7 @@
 ### Hi there, I am Sahan. 👋 👋
 
 I'm a hardworking and ambitious individual with a great passion for the Software industry.
-Currently I have gained 3+ years of idustrial experince in Software Engineering.
+Currently I have gained 5+ years of idustrial experince in Software Engineering.
 ( FrontEnd , BackEnd, DevOps )
 
 I have excellent IT technical skills, communication skills, enabling me to effectively communicate with a wide range of people.
