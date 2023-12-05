@@ -34,5 +34,4 @@ I'm interested in below languages & frameworks.
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 ### GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=br0sive&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=br0sive&theme=dark&hide_border=false)<br/>
